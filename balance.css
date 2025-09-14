@@ -200,4 +200,7 @@ small{
  #amount{
     margin-bottom: 1rem;
  }
+ body{
+    background: linear-gradient(98deg,#089a4a,#3cb371);
+ }
 }
