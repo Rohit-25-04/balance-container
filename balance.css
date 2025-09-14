@@ -203,4 +203,8 @@ small{
  body{
     background: linear-gradient(98deg,#089a4a,#3cb371);
  }
+      input, textarea, select {
+  font-size: 16px;
 }
+}
+
